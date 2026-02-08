@@ -75,6 +75,15 @@ The full dataset used to build this dashboard is available below:
 https://docs.google.com/spreadsheets/d/1naFpiwVuwC84gq43W7nLGt8buEIaCamy/edit?usp=drive_link&ouid=113413939000598330207&rtpof=true&sd=true
 ---
 
+## 📊 Dashboard Access
+
+Due to Power BI publishing limitations, the complete dashboard is shared via OneDrive.
+
+🔗 Power BI Dashboard File (PBIX):
+https://1drv.ms/u/c/e8692590cf0392b3/IQDfmPBM-PtSR41JCFvoH7vhARLw661WgOXQ8hTlF6Bsj7Y?e=idSRuF
+
+The file can be downloaded and opened using Power BI Desktop.
+
 ## 🏗️ Dashboard Structure
 
 The dashboard contains **5 interactive report pages**.
